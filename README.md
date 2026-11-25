@@ -36,6 +36,7 @@ The database consists of five tables:
 
 ### 5. Likes Table
 ![Likes Table](screenshots/likes.png)
+
 The database uses the following relationships:
 
 - Users and Profiles: One-to-One (1:1)
