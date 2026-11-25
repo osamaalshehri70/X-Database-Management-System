@@ -44,6 +44,12 @@ The database uses the following relationships:
 - Users and Users through Follows: Many-to-Many (M:N)
 - Users and Posts through Likes: Many-to-Many (M:N)
 
+## Data Analytics
+
+The following query provides an overview of user engagement metrics, including total posts, followers, following, and likes received.
+
+![User Analytics](screenshots/analytics.png)
+
 ## Features
 
 - Relational database design using MySQL.
