@@ -102,4 +102,4 @@ SHA2-256 is used for password hashing in this educational project. Production ap
 
 Osama Abdullah Alshehri
 
-Computer Engineering Graduate | Data Analysis Enthusiast
+Computer Engineering Graduate | Data Analysis 
