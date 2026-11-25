@@ -17,7 +17,7 @@ The database consists of five tables:
 - **likes:** Records likes on posts.
 
 ## Entity Relationship Diagram
-
+![Database ERD](screenshots/erd.png)
 The database uses the following relationships:
 
 - Users and Profiles: One-to-One (1:1)
